@@ -239,7 +239,7 @@ plt.xlabel('Model size', fontsize=12)
 plt.show()
 ```
 
-##Error-metrics vs. Dataset size and Time taken vs. Dataset size
+## Error-metrics vs. Dataset size and Time taken vs. Dataset size
 The number of images was initially set as 1500. For every time we train the network, we have to increase the number of images by 1500 (e.g 1500, 3000, 4500, 6000, 7500)
 
 ### Code
